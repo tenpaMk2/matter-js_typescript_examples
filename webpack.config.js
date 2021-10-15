@@ -4,7 +4,8 @@ import CopyPlugin from "copy-webpack-plugin";
 export default {
   // entry: `./src/airFriction.ts`,
   // entry: `./src/avalanche.ts`,
-  entry: `./src/bridge.ts`,
+  // entry: `./src/bridge.ts`,
+  entry: `./src/sensors.ts`,
   // entry: `./src/getting_started.ts`,
   // entry: `./src/slingshot.ts`,
   module: {
